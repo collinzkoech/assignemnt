@@ -1,0 +1,15 @@
+table,th,td{
+    border: solid black 2px;
+
+}
+table{
+    width: 50%;
+    background-color: white;
+    margin-left: 60px;
+    margin-top: 30px;
+    height: 400px;
+    img{
+        height: 100px;
+        width: 100%;
+    }
+}

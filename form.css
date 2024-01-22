@@ -1,0 +1,54 @@
+legend{
+    text-align:center ;
+    font-weight:bold ;
+    font-size: 30px;
+    color: black;
+    font-family: aakar;
+
+}
+input[type=text],input[type=date],select,textarea{
+     width:50% ;
+    height:30px ;
+    border-radius:7px;
+    padding-left: 10px;
+    margin-top:10px;
+    margin-left: 20px;
+    display: inline-block;
+
+
+}
+
+
+form{
+    background-color:rosybrown;
+    width:70% ;
+    margin:auto ;
+    padding:30px ;
+    border-radius:10px ;
+
+
+}
+button{
+    width:100px ;
+    height:40px ;
+    background-color:burlywood ;
+    margin-left:100px ;
+    border-radius:10px ;
+}
+h1{
+    text-align: center;
+    font-family: "Bitstream Charter";
+    font-size: 20px;
+
+}
+label{
+    width: 130px;
+    display: inline-block;
+}
+textarea{
+    width:50%;
+    height:30px ;
+    border-radius:7px;
+    padding-left: 10px;
+    display: inline-block;
+}

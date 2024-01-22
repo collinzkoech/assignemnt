@@ -1,0 +1,8 @@
+#main {
+    display: flex;
+    width: 50%;
+}
+img{
+    width: 50%;
+    height: 100px;
+}

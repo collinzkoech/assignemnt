@@ -1,0 +1,27 @@
+form{
+    background-color:white;
+    width:70% ;
+    margin:auto ;
+    padding:30px ;
+    border-radius:10px ;
+    height: 400px;
+    padding-top: 40px;
+
+}
+legend{
+    text-align:center ;
+    font-weight:bold ;
+    font-size: 30px;
+    color: black;
+    font-family: aakar;
+
+}
+p{
+    text-align: center;
+}
+img{
+    width: 50px;
+}
+body{
+    background-image: url("landscape.jpeg");
+}
